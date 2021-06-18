@@ -1,7 +1,7 @@
 [ 
    { 
       "name": "iPhone", 
-      "description": "iPhone is the coolest phone ever", 
+      "description": "iPhone is the bestest phone ever", 
       "price": 1000, 
       "image": "iphone.png" 
    }, 
@@ -13,13 +13,13 @@
    }, 
    { 
       "name": "Laptop", 
-      "description": "Laptop is most productive development tool", 
+      "description": "Laptop is most portable development tool", 
       "price": 2000, 
       "image": "laptop.png" 
    }, 
    { 
       "name": "Tablet", 
-      "description": "Tablet is the most useful device ever for meeting", 
+      "description": "Tablet is the most useful device ever for sudoku", 
       "price": 1500, 
       "image": "tablet.png" 
    }, 
