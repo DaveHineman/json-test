@@ -33,7 +33,7 @@
   }, 
   { 
      "name": "Floppy Drive", 
-     "description": "Floppy drive is useful rescue storage medium", 
+     "description": "Floppy drive is useful. DB.json", 
      "price": 20, 
      "image": "floppydisk.jpg" 
   } 

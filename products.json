@@ -32,10 +32,10 @@
       "image": "pendrive.jpg" 
    }, 
    { 
-      "name": "Floppy Drive", 
-      "description": "Floppy drive is useful rescue storage medium", 
+      "name": "Floopy Drive", 
+      "description": "Floppy drive is useful. Products.json", 
       "price": 20, 
-      "image": "floppy.jpg" 
+      "image": "floppydisk.jpg" 
    } 
 ]
 }
