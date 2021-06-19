@@ -3,7 +3,7 @@
 [ 
   { 
      "name": "iPhone", 
-     "description": "iPhone is the bestest phone ever", 
+     "description": "iPhone is the toodleoo phone ever", 
      "price": 1000, 
      "image": "iphone.png" 
   }, 
@@ -37,5 +37,17 @@
      "price": 20, 
      "image": "floppy.png" 
   } 
+],
+"users": [
+  {
+    "id": 1,
+    "name": "Dave",
+    "age": 30
+  },
+  {
+    "name": "Steve",
+    "id": 2,
+    "age": 40
+  }
 ]
 }
