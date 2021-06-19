@@ -1,3 +1,5 @@
+{
+   "products":
 [ 
    { 
       "name": "iPhone", 
@@ -36,3 +38,4 @@
       "image": "floppy.png" 
    } 
 ]
+}
