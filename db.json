@@ -1,14 +1,41 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "Dave",
-        "age": 30
-      },
-      {
-        "name": "Steve",
-        "id": 2,
-        "age": 40
-      }
-    ]
-  }
+  "products":
+[ 
+  { 
+     "name": "iPhone", 
+     "description": "iPhone is the bestest phone ever", 
+     "price": 1000, 
+     "image": "iphone.png" 
+  }, 
+  { 
+     "name": "Pixel", 
+     "description": "Pixel is the most dumbest phone ever", 
+     "price": 800, 
+     "image": "pixel.png"
+  }, 
+  { 
+     "name": "Laptop", 
+     "description": "Laptop is most portable development tool", 
+     "price": 2000, 
+     "image": "laptop.png" 
+  }, 
+  { 
+     "name": "Tablet", 
+     "description": "Tablet is the most useful device ever for sudoku", 
+     "price": 1500, 
+     "image": "tablet.png" 
+  }, 
+  { 
+     "name": "Pendrive", 
+     "description": "Pendrive is useful storage medium", 
+     "price": 100, 
+     "image": "pendrive.png" 
+  }, 
+  { 
+     "name": "Floppy Drive", 
+     "description": "Floppy drive is useful rescue storage medium", 
+     "price": 20, 
+     "image": "floppy.png" 
+  } 
+]
+}
