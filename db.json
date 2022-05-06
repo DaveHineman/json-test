@@ -33,7 +33,7 @@
   }, 
   { 
      "name": "Floppy Drive", 
-     "description": "Floppy drive is useful. DB.json", 
+     "description": "Floppy drive is super useful.", 
      "price": 20, 
      "image": "floppydisk.jpg" 
   } 
