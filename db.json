@@ -45,21 +45,18 @@
       "age": "30",
       "pcp": "Herzberg",
       "email": "dave@dave.tv",
-      "address": {
+      "address": "1234 Bobolink Ave",
         "street": "123 Victor Plains",
         "suite": "Suite 879",
         "city": "Wisokyburgh",
         "zipcode": "90566-7771"        
-      },
       "erphone": "010-692-6593 x09125",
       "erwebsite": "anastasia.net",
-      "eraddress": {
+      "eraddress": "Victor Plains Suite 879, Wisokyburgh, 90566-1231",
         "street": "Victor Plains",
         "suite": "Suite 879",
         "city": "Wisokyburgh",
         "zipcode": "90566-7771"
-        
-      }
     }
   ],
   "5555569293": [
