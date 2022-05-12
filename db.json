@@ -51,9 +51,9 @@
         "city": "Wisokyburgh",
         "zipcode": "90566-7771"        
       },
-      "ERphone": "010-692-6593 x09125",
-      "ERwebsite": "anastasia.net",
-      "ERaddress": {
+      "erphone": "010-692-6593 x09125",
+      "erwebsite": "anastasia.net",
+      "eraddress": {
         "street": "Victor Plains",
         "suite": "Suite 879",
         "city": "Wisokyburgh",
@@ -75,9 +75,9 @@
         "city": "Overville",
         "zipcode": "90886-7234"      
       },
-      "ERphone": "972-555-6868",
-      "ERwebsite": "website.net",
-      "ERaddress": {
+      "erphone": "972-555-6868",
+      "erwebsite": "website.net",
+      "eraddress": {
         "street": "Big Building St",
         "suite": "Ste 1000",
         "city": "Whiskey River",
