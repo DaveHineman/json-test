@@ -40,9 +40,9 @@
   ],
   "5553912400": [
     {
-      "id": 12341234,
+      "id": "12341234",
       "name": "Dave Hineman",
-      "age": 30,
+      "age": "30",
       "pcp": "Herzberg",
       "email": "dave@dave.tv",
       "address": {
@@ -65,8 +65,8 @@
   "5555569293": [
     {
       "name": "Steve",
-      "id": 97255512,
-      "age": 40,
+      "id": "97255512",
+      "age": "40",
       "pcp": "Johnson",
       "email": "steve@steve.tv",
       "address": {
